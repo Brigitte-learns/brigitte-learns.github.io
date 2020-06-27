@@ -6,6 +6,6 @@ Momo is the main character in the novel "Momo" by Michael Ende.
 * comforts people
 * helps and supports people 
 
-| Wirklich zuhören können nur ganz wenige Menschen. Und so wie Momo sich aufs Zuhören verstand, war es ganz und gar einmalig. 
+> Wirklich zuhören können nur ganz wenige Menschen. Und so wie Momo sich aufs Zuhören verstand, war es ganz und gar einmalig. 
 
  
